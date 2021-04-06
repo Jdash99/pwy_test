@@ -10,7 +10,9 @@ CV_DATA = {
     "name": "Javier Cardenas",
     "email": "javierjcardenas@gmail.com",
     "aboutme": "Full-stack developer with experience on Python and JavaScript. Backend: Django, DRF, Flask. Frontend: React, Vue",
-    "resume": "javiercardenas.dev",
+    "code": "https://github.com/Jdash99/pwy_test/blob/main/pyw.py",
+    "resume": "https://github.com/Jdash99/pwy_test/blob/main/javier-cardenas-cv.pdf",
+    "image": "https://github.com/Jdash99/pwy_test/blob/main/signed_image.jpg",
 }
 
 
